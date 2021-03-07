@@ -31,7 +31,7 @@ exports.lvlnoon = () => {
 }
 
 exports.noregis = () => {
-	return`*「 BELUM DAFTAR 」*\n\n*cara daftar ${prefix}daftar nama|umur* \n*contoh ${prefix}daftar MiKako|17*`
+	return`*「 BELUM DAFTAR 」*\n\n*cara daftar ${prefix}daftar nama|umur* \n*contoh ${prefix}daftar Ximax.ganz|17*`
 }
 
 exports.rediregis = () => {
@@ -135,7 +135,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *XP* : ${getLevelingXp(sender)}/${reqXp}
 ╠☞ *Level* : ${getLevelingLevel(sender)}
 ╠☞ *User register* : ${_registered.length}
-╰════─⊱  ⸨ *Taufik - Kun* ⸩  ⊰─════╯
+╰════─⊱  ⸨ *XIMAX.GANZ* ⸩  ⊰─════╯
 
            Rules - Simple
 ▬▭▬▭▬▭▬▭▬▭▬▭▬
@@ -291,8 +291,8 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ║
 ╠══─⊱ ❰ *THANGKS TO* ❱ ⊰─══➤
 ║
-╠☞ *Botol - LoL*
-╠☞ *Reyna*
+╠☞ *Pampam*
+╠☞ *Fico Shop*
 ╠☞ *Damar*
 ╠☞ *FEBRI*
 ╠☞ *Taufik - Kun*
